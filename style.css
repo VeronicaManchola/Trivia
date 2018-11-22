@@ -1,0 +1,20 @@
+oculto{
+    display:none;
+ }html{
+    background-color: rgb(50,207,168);
+    margin: 0 70px 70px 70px;}
+ body{
+     background-color: rgb(144, 247, 113);
+     text-align:center;
+     font-size:30px;
+ } h1{
+     font-size: 100px;
+ } h2{
+     font-size:70px;
+ } p{
+     font-size:30px;
+ } input{
+     font-size:28px;
+ } button{
+     font-size:23px;
+ }
